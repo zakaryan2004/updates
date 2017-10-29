@@ -1,0 +1,10 @@
+Introduction
+      ArmDay is a multi-functional day-keeping application powered with powerful tools never seen in the market before.
+      Getting Started
+Here are ArmDay's features.
+      Task Chooser - Put the time and chosse a task and the task will be done automatically after the time expires. Task Chooser can do a lot of thing, for example Opening or Killing an application, showing reminder, Shutting Down, Logging out, Restarting or Sleeping computer and more.
+      Multi-functional Stopwatch with comfortable UI and powered with Task Chooser.
+      Multi-functional Timer with comfortable UI and powered with Task Chooser.
+      Multi-functional Alarm with comfortable UI and powered with Task Chooser.
+      Multi-functional Calendar with comfortable UI.
+      Multi-language UI - Change the language (currently available only in English and Armenian). You can contribute with us and do the translations.
