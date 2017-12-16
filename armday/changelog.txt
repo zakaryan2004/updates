@@ -1,1 +1,2 @@
-
+- Added changelog to updates.
+- Bug fixes and typo corrections.
