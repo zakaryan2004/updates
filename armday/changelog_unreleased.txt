@@ -1,0 +1,2 @@
+- New Gradient effect on the background of Stopwatch, Timer and Alarm label backgrounds(it uses foreground color to make gradient).
+- Alarm will automatically set the current time every time you open Alarm tab.
